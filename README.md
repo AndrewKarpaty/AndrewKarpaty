@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewKarpaty&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewKarpaty)](https://github.com/AndrewKarpaty/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKarpaty&layout=compact&theme=tokyonight)
 
