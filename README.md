@@ -52,3 +52,5 @@
 
 > _"Infrastructure should empower developers, not slow them down."_  
 Let’s build platforms that **scale teams, not just clusters.**
+
+![GitHubCard](https://githubcard.com/AndrewKarpaty.svg)
